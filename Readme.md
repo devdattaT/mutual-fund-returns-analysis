@@ -57,6 +57,6 @@ But consider the following:
 
  This second point is more apparent when you graph the Max DrawDowns.
 
- ![ Maximum DrawDowns in a 7 year SIP](images\fund_comparison_7yrs_drawdown.jpg)
+ ![ Maximum DrawDowns in a 7 year SIP](images/fund_comparison_7yrs_drawdown.jpg)
 
  From this graph it is quite clear that Small Cap SIPs have had drawdowns of around 28% while Largecap index fund has had drawdowns of only 20%, while the popular PPFCF has had drawdown of only 20%.
